@@ -28,6 +28,21 @@ Basic UI/UX principles
 I use GitHub to document my learning journey, share projects, and track my progress as I grow into a professional frontend developer.
 --
 
+🛠️ Tech Stack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Skills
 
 - Languages: Pascal, Python, JS
