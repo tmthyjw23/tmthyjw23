@@ -6,7 +6,7 @@
 
 # Hi, I’m tmthyjw23 👋
 
-**Timothy Jordy Weley — College Student | Majoring Informatics in Faculty of Computer Science at Universitas KLabat, Airmadidi, North Sulawesi**
+**Timothy Jordy Weley — College Student | Majoring Informatics in Faculty of Computer Science at Universitas Klabat, Airmadidi, North Sulawesi**
 
 
 --
