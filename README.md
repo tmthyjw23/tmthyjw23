@@ -45,7 +45,7 @@ I use GitHub to document my learning journey, share projects, and track my progr
 
 ## Skills
 
-- Languages: Pascal, Python, JS
+- Languages: Pascal, Python, JS, Go
 - Tools & Platforms: Github, Figma
 - Datastores: -
 - Practices: -
@@ -54,11 +54,6 @@ I use GitHub to document my learning journey, share projects, and track my progr
 
 ## Selected Projects
 
-- **Project One** — Short description of the project and impact. ([code](https://github.com/USERNAME/REPO-ONE))
-- **Project Two** — One-line summary and technologies used. ([code](https://github.com/USERNAME/REPO-TWO))
-- **Project Three** — Explain data/scale/innovation briefly. ([code](https://github.com/USERNAME/REPO-THREE))
-
-Replace the links above with your repository URLs and concise impact statements.
 
 --
 
