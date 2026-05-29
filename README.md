@@ -1,75 +1,45 @@
-<!--
-  Professional GitHub Profile README
-  - Replace placeholders (NAME, EMAIL, USERNAME, REPO) with your details
-  - Keep this file in your profile repository (username/username) to show on your profile
--->
+# Hi there, I'm Timothy Jordy Weley 👋
 
-# Hi, I’m tmthyjw23 👋
+Informatics student focused on building digital experiences through software engineering, rapid prototyping, and collaborative problem solving. Interested in human-centered technology and AI systems, with experience exploring how interaction design and intelligent workflows can create more natural and useful user experiences.
 
-**Timothy Jordy Weley — College Student | Majoring Informatics in Faculty of Computer Science at Universitas Klabat, Airmadidi, North Sulawesi**
+### 💻 Tech Stack & Development Tools
+* **Languages:** JavaScript, Go, Python.
+* **Frontend:** React, Next.js, React Native, Tailwind CSS, NativeWind.
+* **Backend & APIs:** Node.js, REST API, FastAPI.
+* **AI & Orchestration:** RAG Concepts, Prompt Iteration, Local AI Workflows (Ollama, Faster Whisper), ChromaDB.
+* **Infrastructure:** Ubuntu (WSL), Linux VPS, Git, Cloudflare Tunnels, Figma.
 
+### 🚀 Highlighted Projects
+* **[Ody - Voice Interface for Personal AI Workspace]** Prototyping a real-time conversational workflow integrating wake-word detection, speech recognition, and speech synthesis utilizing FastAPI, Next.js, and WebSockets.
+* **[G4 Expert System]** Developing a session-isolated RAG chatbot prototype with dynamic hybrid LLM routing between local environments and cloud gateways.
+* **[LogMan]**
+  Developing a Manado dialect compiler illustrator project.
+* **[UVICS Web Development]** Built responsive user interfaces and global navigation components using Next.js before transitioning the complete frontend codebase for backend integration.
 
---
+### 🌱 Leadership & Current Involvements
+* Vice Chairman of Committee for Faculty Day 2026, managing strategic planning and cross-functional coordination.
+* Vice Treasurer for the Computer Science Student Association (BEM FILKOM) 2026, handling financial administration and resource allocations.
+* Recognized in national business plan competitions for product concepts like *MikroLink* and *AITISM*.
 
-## About
+### 📊 GitHub Analytics
 
-I am a 4th-semester university student who is currently learning and exploring the world of Frontend Development. I enjoy building simple, clean, and responsive user interfaces using modern web technologies.
+<div align="center">
+  <a href="https://github.com/tmthyjw23">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tmthyjw23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/tmthyjw23">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmthyjw23&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
 
-Although I am still in the learning phase, I am highly motivated, curious, and always eager to improve my skills through hands-on projects and continuous practice. I believe that consistency and real projects are the key to becoming a better developer.
+<br />
 
-Currently learning and working with:
+<div align="center">
+  <a href="https://github.com/tmthyjw23">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tmthyjw23&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</div>
 
-HTML, CSS, JavaScript
-
-React (Vite)
-
-Basic UI/UX principles
-
-I use GitHub to document my learning journey, share projects, and track my progress as I grow into a professional frontend developer.
---
-
-🛠️ Tech Stack
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Skills
-
-- Languages: Pascal, Python, JS, Go
-- Tools & Platforms: Github, Figma
-- Datastores: -
-- Practices: -
-
---
-
-## Selected Projects
-
-
---
-
-## GitHub Stats
-
-<!-- Replace USERNAME below with your GitHub username -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmthyjw23&layout=compact&hide=Jupyter%20Notebook)
-![Stats](https://github-readme-stats.vercel.app/api?username=tmthyjw23&show_icons=true&count_private=true&theme=default)
-
---
-
-## Contact
-
-- Email: tmthyjw@gmail.com
-- LinkedIn: https://id.linkedin.com/in/timothy-jordy-weley-115260349
-- Instagram: @tmthyjw_
-
---
-
+### 📫 Let's Connect
+* **Email:** tmthyjw@gmail.com
+* **LinkedIn:** [@tmthyjw](https://linkedin.com/in/tmthyjw)
