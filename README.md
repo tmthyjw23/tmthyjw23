@@ -42,4 +42,4 @@ Informatics student focused on building digital experiences through software eng
 
 ### 📫 Let's Connect
 * **Email:** tmthyjw@gmail.com
-* **LinkedIn:** [@tmthyjw](https://linkedin.com/in/tmthyjw)
+* **LinkedIn:** [@Timothy Jordy Weley](https://linkedin.com/in/timothy-jordy-weley-115260349/)
